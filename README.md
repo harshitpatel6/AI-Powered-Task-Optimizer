@@ -22,3 +22,9 @@ SpeechRecognition (for voice input)
 Hugging Face Transformers (for sentiment analysis)
 
 Torch (for deep learning)
+
+![image](https://github.com/user-attachments/assets/f8a7b965-ad14-43bf-8b59-cea0e3455252)
+
+![image](https://github.com/user-attachments/assets/63013714-2c83-4023-9f4b-2f8a5b80c13d)
+
+![image](https://github.com/user-attachments/assets/e33db652-3dcd-47b1-908e-f3e03c8c5cc2)
